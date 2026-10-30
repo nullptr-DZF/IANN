@@ -1,0 +1,10 @@
+build/
+.venv/
+datasets/
+IndexSave/
+ExperResults/
+__pycache__/
+*.pyc
+*.exe
+*.o
+*.dll
