@@ -4,7 +4,6 @@
 
 This repository provides the C++ implementation and scripts for the IANN experiments.
 
-Due to repository size limits, the code archive does not include datasets, pre-extracted vectors, labels, indexes, expected-point files, precomputed Ground results, experimental outputs, binaries, or plotting code. Download the data and generate the required inputs using the steps below.
 
 ## 1. Components
 
